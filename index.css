@@ -1,0 +1,18 @@
+h1{
+    background-color: red;
+}
+div{
+    height:50px;
+   background-color: #131921;
+  
+}
+a{
+    color:yellow;
+   
+    
+}
+span{
+    color: white;
+    display: inline-block;
+    margin: 10px;
+}
