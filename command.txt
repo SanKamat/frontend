@@ -1,3 +1,6 @@
 git init --to create repository
 git add fuilename
 git commit -m comment
+
+
+gadabad feature
